@@ -1,0 +1,152 @@
+/* CSS Document */
+
+body {
+	margin:20px 0 0 0;
+	background-color:#ecede5;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#59664c;
+}
+
+a.top-link {
+	color:#3d4f1a;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+a.top-link:hover {
+	color:#8cad49;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+a.top-link-current {
+	color:#8cad49;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.body-bg {
+	background-color:#dbe5c6;
+	padding:20px 50px 35px 35px;
+	text-align:left;
+}
+
+.body-link {
+	color:#85a840;
+	font-size:12px;
+	text-decoration:underline;
+}
+
+.footer-bg {
+	background-image:url(../images/footerbg.gif);
+	background-repeat:repeat-x;
+	height:38px;
+	width:100%;
+}
+
+a.footer-link {
+	color:#d3d9c0;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;	
+}
+
+a.footer-link:hover {
+	color:#d3d9c0;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+#home-arrow {
+	position:relative;
+	float:right;
+	text-align:left;
+	width:28px;
+}
+
+#partner-arrow {
+	position:relative;
+	float:right;
+	text-align:left;
+	width:85px;
+}
+
+#solutions-arrow {
+	position:relative;
+	float:right;
+	text-align:left;
+	width:295px;
+}
+
+#aboutus-arrow {
+	position:relative;
+	float:right;
+	text-align:left;
+	width:360px;
+}
+
+#services-arrow {
+	position:relative;
+	float:right;
+	text-align:left;
+	width:225px;
+}
+
+#clientele-arrow {
+	position:relative;
+	float:right;
+	text-align:left;
+	width:155px;
+}
+
+.blue-bg {
+	background-color:#44849c;
+	vertical-align:middle;
+	padding:5px 0 5px 5px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.blue-bg-footer {
+	background-color:#44849c;
+	vertical-align:middle;
+	padding:1px 0 0 0;
+	color:#FFFFFF;
+}
+
+.box-body {
+	border:#c6cebb 1px solid;
+	padding:25px;
+}
+
+#sales-partner-link {
+	position:relative;
+	margin:-98px 0px 0 0px;
+}
+
+#tech-partner-link {
+	position:relative;
+	margin:-98px -105px 0 0px;
+}
+
+.content-blue-bg {
+	background-color:#749d23;
+	vertical-align:middle;
+	padding:5px 0 5px 20px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.content {
+	padding:20px;
+	color:#383838;
+}
+
+.sub-heading {
+	font-weight:bold;
+}
